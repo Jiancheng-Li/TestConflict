@@ -1,5 +1,2 @@
-Conflict 
-JCL
-fdsafdsafdsa
-This fdsafdas is a conflict test
-fdasfd
+This is a conflict test.
+Hello world
