@@ -1,3 +1,5 @@
-This is a conflict test tutorial.
-Hello nice world
-ASDFGHJKLZXCVBNM
+Conflict 
+JCL
+fdsafdsafdsa
+This fdsafdas is a conflict test
+fdasfd
